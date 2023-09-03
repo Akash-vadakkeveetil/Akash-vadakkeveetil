@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **CNCF opensource contributions**
 
-- 🌱 I’m currently learning **Devops and Cloud**
+- 🌱 I’m currently learning **DevOps and Cloud**
 
 - 📝 I regularly write articles on [https://hashnode.com/@Akash-Vadakkeveetil](https://hashnode.com/@Akash-Vadakkeveetil)
 
