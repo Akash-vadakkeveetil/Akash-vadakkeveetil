@@ -7,10 +7,6 @@
   
 </div>
 <hr/>
-<div align="center">
-  <h2>🐍Me Contribute🐍</h2>
-  <br>
-    <img src="
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-vadakkeveetil&show_icons=true&locale=en&layout=compact" alt="akash-vadakkeveetil" /></p>
 
