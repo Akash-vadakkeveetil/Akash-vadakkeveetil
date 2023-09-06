@@ -14,7 +14,4 @@
 <img alt="a snake eating my contributions" src="https://github.com/Akash-vadakkeveetil/Akash-vadakkeveetil/blob/output/github-contribution-grid-snake-dark.svg"/>
   <br/><br/><br/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-vadakkeveetil&show_icons=true&locale=en&layout=compact" alt="akash-vadakkeveetil" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akash-vadakkeveetil&show_icons=true&theme=radical" alt="akash-vadakkeveetil" /></p>
 
