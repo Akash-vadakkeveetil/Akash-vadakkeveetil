@@ -3,8 +3,7 @@
 <h3 align="center">A cloud native enthusiast from India </h3>
 <hr/>
 <div align="center">
-  🌱 I write blogs here -  link
-  
+  🌱 Read my blogs here - https://hashnode.com/@Akash-Vadakkeveetil
 </div>
 <hr/>
 
