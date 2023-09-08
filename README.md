@@ -3,9 +3,8 @@
 <h3 align="center">A cloud native enthusiast from India </h3>
 <hr/>
 <div align="center">
-  🌱 Read my blogs here - https://hashnode.com/@Akash-Vadakkeveetil
+  🌱 Read my blogs <a href="https://hashnode.com/@Akash-Vadakkeveetil">here</a>
   <br>
-  hehe [youtube][1]
 </div>
 <hr/>
 
@@ -15,5 +14,3 @@
 <img alt="a snake eating my contributions" src="https://github.com/Akash-vadakkeveetil/Akash-vadakkeveetil/blob/output/github-contribution-grid-snake-dark.svg"/>
   <br/><br/><br/>
 </div>
-
-[1]:https://www.youtube.com/
