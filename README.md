@@ -5,7 +5,7 @@
 <div align="center">
   🌱 Read my blogs here - https://hashnode.com/@Akash-Vadakkeveetil
   <br>
-  hehe [youtube](https://www.youtube.com/)
+  hehe [youtube][1]
 </div>
 <hr/>
 
@@ -16,3 +16,4 @@
   <br/><br/><br/>
 </div>
 
+[1]:https://www.youtube.com/
