@@ -3,7 +3,7 @@
 <h3 align="center">A Java Developer from India </h3>
 <hr/>
 <div align="center">
-  🌱 Read my blogs <a href="https://hashnode.com/@Akash-Vadakkeveetil">here</a>
+  🌱 Read my blogs <a href="https://medium.com/@akashvadakkeveetil">here</a>
   <br>
 </div>
 <hr/>
