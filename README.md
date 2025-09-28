@@ -14,4 +14,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Akash-vadakkeveetil/Akash-vadakkeveetil/output/github-snake.svg" />
 </picture>
 
-<img src="./tail banner.jpeg" alt="tail" width="300"/>
+<img src="./footer.jpg" alt="tail"/>
