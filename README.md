@@ -1,20 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akash-vadakkeveetil.visitor-badge&left_color=red&right_color=green&left_text=Visitor%20Number:"/>
 <img src="./header.png" alt="My Cool Image"/>
 <hr/>
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table style="border-collapse: collapse; border: none; width: 100%;">
   <tr style="border: none;">
-    <td style="vertical-align: middle; border: none;">
+    <!-- Left cell takes up all free space -->
+    <td style="vertical-align: middle; border: none; padding-right: 30px; width: 100%;">
       🍖 I am an Engineer who mainly focuses on Machine Learning and AI.
       <br>
       🍖 I'm also capable of building full-stack applications too.
     </td>
-    <td style="border: none; text-align: right; width: 240px;">
-      <img src="./219841.gif" alt="gif" />
+    <!-- Right cell shrinks to fit the GIF -->
+    <td style="border: none; text-align: right; width: 1%; white-space: nowrap; padding: 0;">
+      <img src="./219841.gif" alt="gif" width="250" />
     </td>
   </tr>
 </table>
 <hr/>
-
 <h3>Cool innit</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akash-vadakkeveetil/Akash-vadakkeveetil/output/github-snake-dark.svg" />
