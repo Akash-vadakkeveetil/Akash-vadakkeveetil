@@ -1,9 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=akash-vadakkeveetil.visitor-badge&left_color=red&right_color=green&left_text=Visitor%20Number:"/>
-<h1>Hello I'm Akash</h1>
+<h1>Hello I'm Akash Vadakkeveetil</h1>
 <img align="right" src="./219841.gif" alt="Engineering GIF" width="250" style="padding-right: 30px;">
 <p>🍖 I am an Engineer who mainly focuses on **Machine Learning and AI**.</p>
 <p>🍖 I'm also capable of building **full-stack applications** too.</p>
-<p>🍖 I write some tech stuff at [dev.to](https://dev.to/akash_vadakkeveetil)</p>
+<p>🍖 I write some tech stuff at <a href="https://dev.to/akash_vadakkeveetil">Dev.to</a></p>
+<p>🍖 I worked with some good stuff in ML, you can find it <a href="https://www.kaggle.com/akashvadakkeveetil">Kaggle</a></p>
 <br clear="right" />
 <hr/>
 <h3>Cool innit</h3>
