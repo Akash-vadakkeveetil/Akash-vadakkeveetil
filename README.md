@@ -4,7 +4,7 @@
 <p>🍖 I am an Engineer who mainly focuses on **Machine Learning and AI**.</p>
 <p>🍖 I'm also capable of building **full-stack applications** too.</p>
 <p>🍖 I write some tech stuff at <a href="https://dev.to/akash_vadakkeveetil">Dev.to</a></p>
-<p>🍖 I worked with some good stuff in ML, you can find it <a href="https://www.kaggle.com/akashvadakkeveetil">Kaggle</a></p>
+<p>🍖 I worked with some good stuff in ML, you can find it <a href="https://www.kaggle.com/akashvadakkeveetil">Here</a></p>
 <br clear="right" />
 <hr/>
 <h3>Cool innit</h3>
